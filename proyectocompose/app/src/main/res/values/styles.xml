@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="titulito">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">@dimen/margin8</item>
+        <item name="android:textColor">@color/primary</item>
+    </style>
+
+    <style name="info">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/margin8</item>
+        <item name="android:layout_marginRight">@dimen/margin8</item>
+        <item name="android:layout_marginLeft">@dimen/margin8</item>
+        <item name="android:layout_marginBottom">@dimen/Margin25</item>
+    </style>
+
+    <style name="MenuNight">
+        <item name="android:textColor">@color/white</item>
+    </style>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="Margin25">25dp</dimen>
+    <dimen name="margin40">40dp</dimen>
+    <dimen name="margin75">75dp</dimen>
+    <dimen name="margin55">55dp</dimen>
+    <dimen name="marginnNeg25">-25dp</dimen>
+    <dimen name="margin30">30dp</dimen>
+    <dimen name="margin16">16dp</dimen>
+    <dimen name="margin8">8dp</dimen>
+    <dimen name="Margin4">4dp</dimen>
+</resources>

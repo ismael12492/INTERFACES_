@@ -1,0 +1,17 @@
+<resources>
+    <string name="first_fragment_label">Register IZV</string>
+    <string name="tiRegister">New User</string>
+    <string name="hiUser">Name</string>
+    <string name="hiEmail">E-Mail</string>
+    <string name="hiPassword">Password</string>
+    <string name="hiRepeatPass">Repeat password</string>
+    <string name="btRegister">REGISTER</string>
+    <string name="btReturn">RETURN</string>
+    <string name="app_name">iZV</string>
+    <string name="action_settings">Settings</string>
+    <string name="logo">Logo</string>
+    <string name="btPrevious">Previous</string>
+
+
+    <string name="second_fragment_label">Registrar</string>
+</resources>
